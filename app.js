@@ -750,3 +750,4 @@ document.addEventListener('DOMContentLoaded', () => {
 function toggleCompressionOptions() {
     // Function kept for compatibility but no longer needed
 }
+
